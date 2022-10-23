@@ -1,0 +1,36 @@
+body {
+    background-color: #E9ECEF;
+}
+
+.navbar-brand .style-1 {
+    font-family: 'Freehand', cursive;
+    font-size: 30px;
+}
+
+.header-color {
+    color: #6fbcffe3;
+}
+
+.container>p {
+    margin-left: 35%;
+}
+
+.list li {
+    margin-left: 45%;
+}
+.display-2 {
+    color:#6fbcffe3;
+}
+
+.btn-primary {
+    padding: 5px 20px;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
